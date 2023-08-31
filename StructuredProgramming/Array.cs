@@ -3,7 +3,7 @@
     /// <summary>
     ///  array = a variable that can store multiple values. fixed size
     /// </summary>
-    internal class Array
+    public class Array
     {
         void fillArray()
         {
