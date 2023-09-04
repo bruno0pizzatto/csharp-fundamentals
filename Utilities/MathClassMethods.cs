@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace csharp_fundamentals
+namespace csharp_fundamentals.Utilities
 {
-    public  class MathClassMethods
+    public class MathClassMethods
     {
         public MathClassMethods()
         {
